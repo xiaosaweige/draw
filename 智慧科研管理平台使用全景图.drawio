@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T08:01:17.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YfF7oqHawBCeIm5HFC_-" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-29T08:05:52.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Ozb2zCVF3sB_MJpjK4xh" version="21.6.9" type="github">
   <diagram name="第 1 页" id="8AalZhf0SuC_jpaXCOYt">
     <mxGraphModel dx="1207" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -239,6 +239,15 @@
         </mxCell>
         <mxCell id="mLf53-jrDhpxrXsrKtnD-175" value="管理员代评" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mLf53-jrDhpxrXsrKtnD-181" value="审批中心&lt;br&gt;（项目管理员）" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLf53-jrDhpxrXsrKtnD-182" value="审批中心&lt;br&gt;（部门负责人）" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="80" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mLf53-jrDhpxrXsrKtnD-183" value="审批中心&lt;br&gt;（系统管理员）" style="text;html=1;strokeColor=default;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="905" y="170" width="235" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
